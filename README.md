@@ -10,7 +10,8 @@
 - Nodemon
 ## Working
 - The Home page will automatically create a new File everytime the page refreshed 
- - The API Endpoint is ("/")
+ - The API Endpoint is ("/create")
 - And it will retrive all the files names from the directory where the files are created 
  - The API Endpoint is ("/read") 
 
+-[Live Site]()
